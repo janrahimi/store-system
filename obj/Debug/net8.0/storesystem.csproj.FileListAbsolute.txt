@@ -12,3 +12,4 @@ C:\Users\rahimi.john10\OneDrive\Skrivbord\storesystem\obj\Debug\net8.0\refint\st
 C:\Users\rahimi.john10\OneDrive\Skrivbord\storesystem\obj\Debug\net8.0\storesystem.pdb
 C:\Users\rahimi.john10\OneDrive\Skrivbord\storesystem\obj\Debug\net8.0\storesystem.genruntimeconfig.cache
 C:\Users\rahimi.john10\OneDrive\Skrivbord\storesystem\obj\Debug\net8.0\ref\storesystem.dll
+C:\Users\rahimi.john10\OneDrive\Skrivbord\storesystem\obj\Debug\net8.0\storesystem.sourcelink.json
