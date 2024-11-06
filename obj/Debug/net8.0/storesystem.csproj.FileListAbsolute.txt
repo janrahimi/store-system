@@ -1,0 +1,14 @@
+C:\Users\rahimi.john10\OneDrive\Skrivbord\storesystem\bin\Debug\net8.0\storesystem.exe
+C:\Users\rahimi.john10\OneDrive\Skrivbord\storesystem\bin\Debug\net8.0\storesystem.deps.json
+C:\Users\rahimi.john10\OneDrive\Skrivbord\storesystem\bin\Debug\net8.0\storesystem.runtimeconfig.json
+C:\Users\rahimi.john10\OneDrive\Skrivbord\storesystem\bin\Debug\net8.0\storesystem.dll
+C:\Users\rahimi.john10\OneDrive\Skrivbord\storesystem\bin\Debug\net8.0\storesystem.pdb
+C:\Users\rahimi.john10\OneDrive\Skrivbord\storesystem\obj\Debug\net8.0\storesystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahimi.john10\OneDrive\Skrivbord\storesystem\obj\Debug\net8.0\storesystem.AssemblyInfoInputs.cache
+C:\Users\rahimi.john10\OneDrive\Skrivbord\storesystem\obj\Debug\net8.0\storesystem.AssemblyInfo.cs
+C:\Users\rahimi.john10\OneDrive\Skrivbord\storesystem\obj\Debug\net8.0\storesystem.csproj.CoreCompileInputs.cache
+C:\Users\rahimi.john10\OneDrive\Skrivbord\storesystem\obj\Debug\net8.0\storesystem.dll
+C:\Users\rahimi.john10\OneDrive\Skrivbord\storesystem\obj\Debug\net8.0\refint\storesystem.dll
+C:\Users\rahimi.john10\OneDrive\Skrivbord\storesystem\obj\Debug\net8.0\storesystem.pdb
+C:\Users\rahimi.john10\OneDrive\Skrivbord\storesystem\obj\Debug\net8.0\storesystem.genruntimeconfig.cache
+C:\Users\rahimi.john10\OneDrive\Skrivbord\storesystem\obj\Debug\net8.0\ref\storesystem.dll
